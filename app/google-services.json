@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564891625175",
+    "project_id": "project-11-database",
+    "storage_bucket": "project-11-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564891625175:android:d9806efe72d189e1afb292",
+        "android_client_info": {
+          "package_name": "com.ritikcoder.project11ofandroidcoursewithsaumyasingh_advanceuiuxwithdatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEkODjSjCiuL5AHOZBOTpS8fmMasYrAdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

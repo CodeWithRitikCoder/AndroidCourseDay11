@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project 11 of Android Course With Saumya Singh- Advance UI UX With Database</string>
+    <string name="advance_ui_ux_of_register_form_with_firebase_database">Advance UI UX of Register \n Form \n with Firebase Database</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email_address">Enter email address</string>
+    <string name="sign_up">SIGN UP</string>
+</resources>
